@@ -112,3 +112,20 @@ font-size: 25px;
   display: flex;
   margin-bottom: 100px;
 }
+
+.subscribers{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+.logo{
+  width: 30%;
+  margin-left: 70px;
+}
+.logo img{
+  width: 30%;
+  padding-top: 30px;
+}
