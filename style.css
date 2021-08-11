@@ -25,6 +25,35 @@
     background-color: #610f0f;
     color: white;
   }
+
+  .top-banner
+  {
+    display: flex;
+    margin-bottom: 150px;
+  }
+  .half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.half-width p{
+    margin-bottom: 50px;
+}
   
-  
+  .button-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(148, 105, 26), tomato);
+    padding: 10px 30px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 400;
+
+
+}
+.orange-color{
+  color: orange;
+}
  
