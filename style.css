@@ -1,4 +1,7 @@
 
+body{
+  font-family: 'Libre Baskerville', serif;
+}
 .section{
   height: 900px;
   width: 700px;
@@ -50,6 +53,7 @@
 }
 
 .button-link{
+    text-decoration: none;
     text-align: center;
     background-image: linear-gradient(rgb(148, 105, 26), tomato);
     padding: 10px 30px;
@@ -127,5 +131,12 @@ font-size: 25px;
 }
 .logo img{
   width: 30%;
-  padding-top: 30px;
+  padding-top: 25px;
+}
+footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
